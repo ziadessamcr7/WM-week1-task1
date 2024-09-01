@@ -1,0 +1,707 @@
+@media (max-width: 576px) {
+    nav ul li {
+        font-size: 14px;
+        margin: 0 5px;
+    }
+
+    nav .logo {
+        width: 10%;
+        height: 44px;
+        border-radius: 50%;
+    }
+
+    nav div h4,
+    nav div h2 {
+        font-size: 10px;
+    }
+
+    .container {
+        width: 95%;
+    }
+
+
+    #sec-1 .pages {
+        width: 80%;
+    }
+
+    #sec-1 h1 {
+        font-size: 32px;
+    }
+
+    #sec-1 .row {
+        width: 80%;
+    }
+
+    #sec-1 p {
+        font-size: 16px;
+    }
+
+    #sec-1 .mainButton {
+        margin-bottom: 15px;
+    }
+
+
+
+    #sec-2 .left h1 {
+        font-size: 32px;
+    }
+
+    #sec-2 .row {
+        display: block;
+    }
+
+    #sec-2 .left {
+        width: 100%;
+    }
+
+    #sec-2 .right {
+        width: 85%;
+        margin: 30px auto;
+    }
+
+    #sec-3 {
+        padding-block: 30px;
+    }
+
+    #sec-3 .container .row .content h1 {
+        font-size: 32px;
+    }
+
+    #sec-3 .container .row .content p {
+        font-size: 18px;
+    }
+
+    #sec-4 h1 {
+        font-size: 32px;
+    }
+
+    #sec-4 .container>p {
+        font-size: 18px;
+    }
+
+    #sec-4 .cardsBox {
+        display: block;
+    }
+
+    #sec-4 .cardsBox .card {
+        margin: 20px 0;
+    }
+
+    #sec-5 .container .row {
+        width: 98%;
+    }
+
+    #sec-5 .container .row h1 {
+        font-size: 32px;
+    }
+
+    #sec-5 .container .row p {
+        font-size: 16px;
+    }
+
+    #sec-6 h1 {
+        font-size: 32px;
+    }
+
+    #sec-6 p {
+        font-size: 18px;
+        margin-block: 25px;
+    }
+
+    #sec-6 .row1 {
+        display: block;
+    }
+
+    #sec-6 .left {
+        width: 100%;
+        background-color: senna;
+    }
+
+    #sec-6 .right {
+        display: block;
+        width: 100%;
+    }
+
+    #sec-6 .right .row .card {
+        width: 95%;
+        margin: auto;
+    }
+
+    #sec-7 {
+        padding-block: 40px;
+    }
+
+    #sec-7 h1 {
+        font-size: 32px;
+    }
+
+    #sec-7 .row {
+        display: block;
+    }
+
+    #sec-7 .row .card {
+        margin-bottom: 20px;
+    }
+
+    #sec-8 .row {
+        display: block;
+    }
+
+    #sec-8 .row .left {
+        display: block;
+        width: 100%;
+    }
+
+    #sec-8 .row .left h1 {
+        font-size: 36px;
+    }
+
+    #sec-8 .row .right {
+        width: 100%;
+        margin-block: 20px;
+    }
+
+    #sec-8 .row .right>p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    #sec-8 .row .right .mainBox .personBox img {
+        width: 50px;
+        height: 50px;
+    }
+
+    #sec-8 .row .right .mainBox .buttonsBox {
+        width: 28%;
+    }
+
+    footer .row1 {
+        display: block;
+    }
+
+    footer .row1 .left .content ul {
+        display: block;
+    }
+
+    footer .row1 .left .content ul li {
+        margin-bottom: 10px;
+    }
+
+    footer .row1 .right {
+        background-color: seareen;
+        width: 100%;
+    }
+
+    footer .row2 {
+        display: block;
+    }
+
+    footer .row2 ul {
+        display: block;
+    }
+
+    footer .row2 ul li {
+        margin-bottom: 10px;
+        border-right: none;
+        border-bottom: 1px solid rgba(179, 189, 199, 1);
+        padding-bottom: 10px;
+    }
+}
+
+
+@media (min-width: 577px) and (max-width: 768px) {
+
+    nav ul li {
+        font-size: 16px;
+        margin: 0 5px;
+    }
+
+    nav .logo {
+        width: 10%;
+        height: 44px;
+        border-radius: 50%;
+    }
+
+    nav div h4,
+    nav div h2 {
+        font-size: 12px;
+    }
+
+    #sec-1 h1 {
+        font-size: 32px;
+    }
+
+    #sec-1 .pages {
+        width: 50%;
+    }
+
+    #sec-1 .row {
+        width: 100%;
+        text-align: center;
+    }
+
+    #sec-1 p {
+        font-size: 16px;
+    }
+
+    #sec-1 .mainButton {
+        margin-bottom: 15px;
+    }
+
+    #sec-2 .left h1 {
+        font-size: 32px;
+    }
+
+    #sec-2 .row {
+        display: block;
+    }
+
+    #sec-2 .left {
+        width: 100%;
+    }
+
+    #sec-2 .left ol li {
+        font-size: 16px;
+    }
+
+    #sec-2 .right {
+        width: 85%;
+        margin: 30px auto;
+    }
+
+    #sec-3 {
+        padding-block: 20px;
+    }
+
+    #sec-3 .container .row .content h1 {
+        font-size: 32px;
+    }
+
+    #sec-3 .container .row .content p {
+        font-size: 18px;
+    }
+
+    #sec-4 h1 {
+        font-size: 32px;
+    }
+
+    #sec-4 .container>p {
+        font-size: 16px;
+    }
+
+    #sec-4 .cardsBox {
+        display: block;
+    }
+
+    #sec-4 .cardsBox .card {
+        margin: 20px 0;
+    }
+
+    #sec-5 {
+        padding-block: 20px;
+    }
+
+    #sec-5 .container .row {
+        width: 100%;
+    }
+
+    #sec-5 .container .row h1 {
+        font-size: 32px;
+    }
+
+    #sec-5 .container .row p {
+        font-size: 14px;
+        color: rgb(218, 221, 224);
+    }
+
+    #sec-6 p {
+        font-size: 18px;
+        margin-block: 25px;
+    }
+
+    #sec-6 .row1 {
+        display: block;
+    }
+
+    #sec-6 .left {
+        width: 100%;
+        background-color: senna;
+    }
+
+    #sec-6 .right {
+        display: block;
+        width: 100%;
+    }
+
+    #sec-6 .right .row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+        background-color: slaterey;
+        width: 100%;
+    }
+
+    #sec-6 .right .row .card {
+        width: 48%;
+    }
+
+    #sec-6 .right .row .card p {
+        font-size: 14px;
+    }
+
+    #sec-7 {
+        padding-block: 20px;
+    }
+
+    #sec-7 h1 {
+        text-align: center;
+        font-size: 32px;
+        text-transform: capitalize;
+    }
+
+    #sec-7 .container>p {
+        text-align: center;
+        margin-block: 30px;
+        font-size: 18px;
+    }
+
+    #sec-7 .row {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+
+    #sec-7 .row .card {
+        width: 48.5%;
+        padding: 15px;
+    }
+
+    #sec-7 .row .card h5 {
+        margin-block: 15px;
+        font-size: 20px
+    }
+
+    #sec-7 .row .card p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    #sec-8 .row {
+        display: block;
+    }
+
+    #sec-8 .row .left {
+        display: block;
+        width: 100%;
+    }
+
+    #sec-8 .row .left h1 {
+        font-size: 36px;
+    }
+
+    #sec-8 .row .right {
+        width: 100%;
+        margin-block: 20px;
+    }
+
+    #sec-8 .row .right>p {
+        font-size: 16px;
+        line-height: 27px;
+    }
+
+    #sec-8 .row .right .mainBox .personBox img {
+        width: 50px;
+        height: 50px;
+    }
+
+    #sec-8 .row .right .mainBox .buttonsBox {
+        width: 28%;
+    }
+
+    footer .row1 {
+        display: block;
+    }
+
+
+    footer .row1 .left .content ul {
+        display: block;
+    }
+
+    footer .row1 .left .content ul li {
+        margin-bottom: 10px;
+    }
+
+    footer .row1 .right {
+        background-color: seareen;
+        width: 100%;
+    }
+
+    footer .row1 .right .content p {
+        font-size: 14px;
+    }
+
+    footer .row1 .left .content ul li {
+        font-size: 16px;
+        text-decoration: underline;
+    }
+
+    footer .row2 {
+
+        display: block;
+    }
+
+    footer .row2 ul {
+        display: block;
+    }
+
+    footer .row2 ul li {
+        margin-bottom: 10px;
+        border-right: none;
+        border-bottom: 1px solid rgba(179, 189, 199, 1);
+        padding: 10px 0;
+    }
+
+
+}
+
+
+@media (min-width: 769px) and (max-width: 992px) {
+
+
+    nav .logo {
+        width: 5%;
+        height: 30px;
+        border-radius: 50%;
+    }
+
+    #sec-1 h1 {
+        color: blueviolet;
+        font-size: 42px;
+    }
+
+    #sec-1 .row {
+        width: 100%;
+    }
+
+    #sec-2 .left {
+        width: 50%;
+        background-color: ed;
+    }
+
+    #sec-2 .left h1 {
+        font-size: 32px;
+    }
+
+    #sec-2 .left p {
+        font-size: 16px;
+    }
+
+    #sec-2 .left h1,
+    #sec-2 .left p {
+        margin-bottom: 20px;
+    }
+
+    #sec-2 .left ol {
+        list-style-type: none
+    }
+
+    #sec-2 .left ol span {
+        color: rgba(132, 189, 58, 1);
+        margin-right: 8px;
+    }
+
+    #sec-2 .left ol li {
+        margin: 10px 0;
+        font-size: 16px;
+    }
+
+    #sec-2 .right {
+        width: 45%;
+        position: relative;
+    }
+
+    #sec-2 .right img {
+        width: 100%;
+        height: 100%;
+    }
+
+    #sec-2 .floatingDiv {
+        position: absolute;
+        background-color: orange;
+        bottom: 20px;
+        left: -25px;
+        text-align: start;
+        padding: 20px;
+        border-radius: 20px;
+    }
+
+    #sec-2 .floatingDiv img {
+        width: 40%;
+        margin-bottom: 15px;
+    }
+
+
+
+    #sec-3 .row .content h1 {
+        font-size: 32px;
+    }
+
+    #sec-3 .row .content p {
+        margin: 30px 0;
+        font-size: 18px;
+    }
+
+    #sec-4 h1 {
+        font-size: 32px;
+    }
+
+    #sec-4 .container>p {
+        font-size: 18px;
+    }
+
+    #sec-4 .card .cardBody p {
+        font-size: 14px;
+    }
+
+    .viewProd,
+    .viewInteg {
+        font-size: 18px;
+    }
+
+    #sec-5 {
+        padding-block: 30px;
+    }
+
+    #sec-5 .container .row h1 {
+        font-size: 32px;
+    }
+
+    #sec-5 .container .row p {
+        font-size: 16px;
+        color: rgb(218, 221, 224);
+    }
+
+
+    #sec-6 h1 {
+        font-size: 32px;
+    }
+
+    #sec-6 p {
+        font-size: 16px;
+    }
+
+    #sec-6 .right .row .card h5 {
+        font-size: 18px;
+    }
+
+    #sec-6 .right .row .card p {
+        font-size: 14px;
+    }
+
+
+    #sec-7 {
+        padding-block: 20px;
+    }
+
+    #sec-7 h1 {
+        font-size: 31px;
+    }
+
+
+    #sec-7 .row {
+        display: flex;
+        gap: 10px;
+    }
+
+    #sec-7 .row .card {
+        padding: 15px;
+    }
+
+    #sec-7 .row .card h5 {
+        font-size: 18px
+    }
+
+    #sec-7 .row .card p {
+        font-size: 14px;
+    }
+
+
+    #sec-8 .row .left h1 {
+        font-size: 32px;
+    }
+
+    #sec-8 .row .left h6 {
+        font-size: 16px;
+    }
+
+    #sec-8 .row .right>p {
+
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    #sec-8 .row .right .mainBox .personBox img {
+        margin-right: 10px;
+    }
+
+    #sec-8 .row .right .mainBox .buttonsBox {
+        width: 25%;
+    }
+
+    #sec-8 .row .right .mainBox .buttonsBox span {
+        width: 30px;
+        height: 30px;
+    }
+
+
+    footer .row1 {
+        flex-wrap: wrap;
+    }
+
+    footer .row1 .left .content ul li {
+        margin: 0 20px 0 0;
+        font-size: 14px;
+        text-decoration: underline;
+    }
+
+    footer .row1 .right {
+        width: 40%;
+        margin-left: auto;
+    }
+
+    footer .row1 .right .content p {
+        font-size: 14px;
+    }
+
+    footer .row1 .right .content .inputWrapper input {
+        padding: 10px;
+    }
+
+
+    footer .row2 {
+        border-top: 1px solid rgba(179, 189, 199, 1);
+        padding: 40px 0;
+        display: flex;
+        justify-content: space-between;
+        color: rgba(179, 189, 199, 1);
+    }
+
+    footer .row2 ul li {
+        padding: 0 20px;
+        font-size: 14px;
+        border-right: 1px solid rgba(179, 189, 199, 1);
+    }
+
+
+    footer .row2 .right {
+        width: 50%;
+        text-align: end;
+    }
+
+    footer .row2 .right p {
+        font-size: 12px;
+    }
+}
